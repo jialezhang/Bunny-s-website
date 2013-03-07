@@ -1,0 +1,71 @@
+.banner2.abount_me{
+	 color:#ff4d4d;
+}
+.content_images{
+	/*float:left;*/
+	width: 568px;
+	margin:30px 0 0 0; 
+}
+
+.content_texts{
+	float:left;
+	/*background-color:#31C761;*/
+	height:400px;
+	width:400px;
+	margin:30px 0 0 32px;
+}
+.product{
+	width:1000px;
+}
+.product img{
+	/*float:left;*/
+	margin:0 0 10px 0;
+}
+
+.seperate{
+	margin:-8px 0 0 0;
+	width:1000px;
+	position:absolute;
+	border: 1px solid #edebeb;
+}
+.verline{
+	margin:-10px 0 0 657px;
+	height:395px;
+	position:absolute;
+	border: 1px solid #edebeb;	
+}
+.text{
+	float:right;
+}
+h1{
+	display:block;
+	margin-left: 0px;
+}
+.renren{
+	height:19px;
+	width:34px;
+	display: block;
+	background-image: url("../images/about/renren_normal.png");
+	cursor:pointer;
+	float:right;
+	margin:4px 112px 0 0 ;
+}
+.renren:hover{
+	background-image: url("../images/about/renren.png");
+}
+.sina{
+	height:24px;
+	width:32px;
+	display: block;
+	background-image: url("../images/about/sina_normal.png");
+	cursor:pointer;
+	float:right;
+	margin:0 -80px 0 0 ;
+}
+.sina:hover{
+	background-image: url("../images/about/sina.png");
+}
+.footer{
+	text-align: center;
+	margin:10px 0 10px 0;
+}
